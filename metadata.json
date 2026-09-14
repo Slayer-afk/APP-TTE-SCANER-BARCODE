@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Dokumen TTE & QR Scanner",
+  "description": "Aplikasi penandatanganan dokumen elektronik (TTE), pasang otomatis QR & barcode 1D ke PDF, pembuat dokumen otomatis, pemindai barcode kamera, serta pembuat kode QR hyperlink.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
